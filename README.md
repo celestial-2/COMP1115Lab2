@@ -1,0 +1,1 @@
+this is the lab2 project where we learned to use GitHub for our projects
